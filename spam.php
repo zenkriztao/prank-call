@@ -15,18 +15,18 @@ $red    = "\e[91m";
 echo $red."
 ╔═╗┌─┐┌─┐┌┬┐  ╔═╗┌─┐┬  ┬  
 ╚═╗├─┘├─┤│││  ║  ├─┤│  │  
-╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n".$red.
-"Lolos ITB 2020/ Rizki";
-echo $red."
-[!] Author   : Muhammad Rizki/Ryus4n						[!]
+╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n\n".$red.
+"Lolos ITB 2020/ Rizki\n";
+echo $white."
+[!] Author   : Muhammad Rizki/Ryus4n	[!]
 [!] Telegram  : t.me/cy6ny/Rizki   [!]
-[!] github   : github.com/zenkriztao       [!]\n";
+[!] github   : github.com/zenkriztao       [!]\n\n";
 echo $red."
 ======================================
 |[!]  SMANPOEL/Teknik Informatika ITB/MIT x86_x64 lu=inux inside team [!]|
-======================================\n";
-echo "\n";
-echo "\n";
+======================================\n\n";
+echo "\n\n";
+echo "\n\n";
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
 echo "@ [!]  Contoh : 0852***** / 62852******  [!] @\n";
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
