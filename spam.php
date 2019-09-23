@@ -17,16 +17,18 @@ echo $red."
 ╚═╗├─┘├─┤│││  ║  ├─┤│  │  
 ╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n\n".$red.
 "Lolos ITB 2020/ Rizki\n";
-echo $white."
-[!] Author   : Muhammad Rizki/Ryus4n	[!]
+echo $red."
+[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
+[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
+[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
 [!] Telegram  : t.me/cy6ny/Rizki   [!]
 [!] github   : github.com/zenkriztao       [!]\n\n";
 echo $red."
 ======================================
 |[!]  SMANPOEL/Teknik Informatika ITB/MIT x86_x64 lu=inux inside team [!]|
 ======================================\n\n";
-echo "\n\n";
-echo "\n\n";
+echo "\n";
+echo "\n";
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
 echo "@ [!]  Contoh : 0852***** / 62852******  [!] @\n";
 echo "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n";
