@@ -11,11 +11,15 @@ function send($phone){
         curl_close($ch);
                 echo $asw."\n";
 }
-echo "\n\n";
+echo "[----------------------------]\n\n";
 echo "Coded by Muhammad Rizki\n\n";
+echo "[----------------------------]\n\n";
 echo "COPYRIGHT SMANPOEL\n\n";
+echo "[----------------------------]\n\n";
 echo "Team Ryus4n\n\n";
-echo "Gunakan Dengan Bijak\n\n";
+echo "[----------------------------]\n\n";
+echo "ryusan.dev@outlook.com/ t.me/cy6ny/Rizki\n\n";
+echo "[----------------------------]\n\n";
 echo "Nomor\nMasukkan Input(62xxxxxxxxx) : ";
 $nomor = trim(fgets(STDIN));
 $execute = send($nomor);
