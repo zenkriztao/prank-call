@@ -18,14 +18,11 @@ echo $red."
 ╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n\n".$red.
 "Lolos ITB 2020/ Rizki\n";
 echo $red."
-[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
-[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
-[!] Author   : Muhammad Rizki Ramadhan/Ryus4n	[!]
-[!] Telegram  : t.me/cy6ny/Rizki   [!]
+[!] Author   : kriz3	[!]
 [!] github   : github.com/zenkriztao       [!]\n\n";
 echo $red."
 ======================================
-|[!]  SMANPOEL/Teknik Informatika ITB/MIT x86_x64 lu=inux inside team [!]|
+|[!] ITB/MIT x86_x64 lu=inux inside team [!]|
 ======================================\n\n";
 echo "\n";
 echo "\n";
